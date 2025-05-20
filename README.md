@@ -14,3 +14,5 @@
     powershell iex (irm https://massgrave.dev/get)
     ```
 
+  - Hoặc quý vị mở **NotePad** lên, sao chép đoạn mã trên vào và **Save As** đặt tên là **MasTools/cmd** rồi **Run as Administrator**
+  - [Bấm vào đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETDgzyipj8NHoJ9so1prsckBUbI70JadjJhH-OcsFXr8iw?e=z9CUKC) để download file **MasTools/cmd**
