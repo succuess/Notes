@@ -11,5 +11,6 @@
   - Quý vị chạy **cmd** bằng quyền **Run as Administrator** rồi dán câu lệnh này vào
 
     ```php
+    powershell iex (irm https://massgrave.dev/get)
     ```
 
