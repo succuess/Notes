@@ -62,12 +62,15 @@ Nếu sử dụng cách 2 bạn phải KÍCH HOẠT OFFICE 365 MONDO 180 ngày b
   cscript ospp.vbs /unpkey:6MWKP >nul
   cscript ospp.vbs /unpkey:6F7TH >nul
   cscript ospp.vbs /unpkey:GCVGB >nul
+  cscript ospp.vbs /unpkey:XQBR2 >nul
   cscript //nologo ospp.vbs /inpkey:HFTND-W9MK4-8B7MJ-B6C4G-XQBR2
   :end
   :notsupported
   :halt
   pause >nul
   ```
+
+
 
 ### Kích hoạt IDM:
   - Là phần mềm cũng khá hay.
