@@ -14,5 +14,16 @@
     powershell iex (irm https://massgrave.dev/get)
     ```
 
-  - Hoặc quý vị mở **NotePad** lên, sao chép đoạn mã trên vào và **Save As** đặt tên là **MasTools/cmd** rồi **Run as Administrator**
+  - Hoặc quý vị mở **NotePad** lên, sao chép đoạn mã trên vào và **Save As** đặt tên là **MasTools.cmd** rồi **Run as Administrator**
   - [Bấm vào đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/ETDgzyipj8NHoJ9so1prsckBUbI70JadjJhH-OcsFXr8iw?e=z9CUKC) để download file **MasTools/cmd**
+
+### Kích hoạt IDM:
+  - Là phần mềm cũng khá hay.
+  - Quý vị chạy **cmd** bằng quyền **Run as Administrator** rồi dán câu lệnh này vào
+
+    ```php
+    powershell iex (irm https://coporton.com/ias)
+    ```
+
+  - Hoặc quý vị mở **NotePad** lên, sao chép đoạn mã trên vào và **Save As** đặt tên là **IDM.cmd** rồi **Run as Administrator**
+  - [Bấm vào đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EZEG6zNbvnFBqWmI2OMlIskBMjBqp5yHM_g_8WOe1TUItQ?e=PLvmLF) để download file 
