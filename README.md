@@ -35,12 +35,15 @@ DOWNLOAD VÀ CÀI ĐẶT OFFICE 365 MONDO
   - Bạn có thể download và cài đặt một **Office 16 prolus** bất kì, sau đó **Active** như bên dưới là được.
   - **Office 16** tức: Office 2016, 2019, 2021, 2024, 365.
 
-## KÍCH HOẠT OFFICE 365 MONDO 180 ngày.
+KÍCH HOẠT OFFICE 365 MONDO Vĩnh viễn bằng MasTools 
+
+KÍCH HOẠT OFFICE 365 MONDO 180 ngày bằng KMS
+
 - Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào là xong!
 
   ```php
   @echo off
-  title  Activate Microsoft Office Prolus 2016 for FREE - https://github.com/BsChiThanh 
+  title  Activate Microsoft Office Prolus 2016 for FREE 
   cls
   color F4
   mode con cols=98 lines=30
