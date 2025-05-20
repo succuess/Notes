@@ -37,13 +37,13 @@ DOWNLOAD VÀ CÀI ĐẶT OFFICE 365 MONDO
 
 KÍCH HOẠT OFFICE 365 MONDO Vĩnh viễn bằng MasTools 
 
-KÍCH HOẠT OFFICE 365 MONDO 180 ngày bằng KMS
+Nếu sử dụng cách 2 bạn phải KÍCH HOẠT OFFICE 365 MONDO 180 ngày bằng KMS, sau đó mới chạy MasTools là OK.
 
 - Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy đoạn code sau đây dán vào là xong!
 
   ```php
   @echo off
-  title  Activate Microsoft Office Prolus 2016 for FREE 
+  title  Activate Microsoft Office Mondo 2016 for FREE 
   cls
   color F4
   mode con cols=98 lines=30
