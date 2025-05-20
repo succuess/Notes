@@ -25,6 +25,12 @@
     powershell iex (irm https://coporton.com/ias)
     ```
 
+    Hoặc:
+
+    ```php
+    powershell iex (irm is.gd/idm_reset)
+    ```
+
   - Hoặc quý vị mở **NotePad** lên, sao chép đoạn mã trên vào và **Save As** đặt tên là **IDM.cmd** rồi **Run as Administrator**
   - [Bấm vào đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EZEG6zNbvnFBqWmI2OMlIskBMjBqp5yHM_g_8WOe1TUItQ?e=PLvmLF) để download file **IDM.cmd**
 
